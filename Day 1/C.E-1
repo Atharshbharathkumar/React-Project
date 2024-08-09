@@ -6,7 +6,7 @@ function qn1(){
 const Greeting = () => {
     return(
         <div>
-            <h1>Let we see the output of JAVASCRIPT</h1>
+            <h1>I AM ATHARSH</h1>
             <button onClick={qn1}>Click1</button>
         </div>
     )
