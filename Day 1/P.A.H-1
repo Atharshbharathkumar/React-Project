@@ -2,7 +2,7 @@ function Team()
 {
     return(
     <div>
-        <p>This is Team Functional Component</p>
+        <p>This is Team Fun</p>
     </div>
     )
 }
